@@ -15,6 +15,8 @@ redirect_from:
 
 你可以在此找到我的个人学术简历[Layjiao's CV](../assets/Curriculum_Vitae.pdf)。
 
-[Email](mailto:layjiao@163.com)：您可使用此邮箱与我进行联系
-[Github](https://github.com/Layjiao)：您可访问此网站获取我创建的原创数据集
+[Email](mailto:layjiao@163.com)：您可使用此邮箱与我进行联系。
+
+[Github](https://github.com/Layjiao)：您可访问此网站获取我创建的原创数据集。
+
 【微信公众号】比较中的政治研究：您可以访问此公众号查看我署名的编译文献
